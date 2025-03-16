@@ -1,0 +1,6 @@
+[book]
+authors = ["Rahul Chauhan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dynamic Entropy's Notebook"
